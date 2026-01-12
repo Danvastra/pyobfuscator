@@ -44,5 +44,7 @@ Project ini dibuat untuk **edukasi, showcase GitHub**, dan perlindungan ringan t
 ---
 
 ## 📋 Menu Program
-
+- Samarkan file (buat key)
+- Pudarkan file (butuh key)
+- Keluar
 
